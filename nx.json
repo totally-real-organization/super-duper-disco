@@ -1,4 +1,6 @@
 {
+  "nxCloudAccessToken": "NmRkYWU3NzItZDI5OS00ZmI5LThlMGMtNWY1ZDY5ZjhiNjA5fHJlYWQtd3JpdGU=",
+  "nxCloudUrl": "https://staging.nx.app",
   "affected": {
     "defaultBase": "main"
   }
