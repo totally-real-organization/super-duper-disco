@@ -1,0 +1,14 @@
+{
+  "name": "super-duper-disco",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nx": "18.0.0-canary.20240130-bb3cf3a"
+  }
+}
