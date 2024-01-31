@@ -10,5 +10,6 @@
   "license": "ISC",
   "devDependencies": {
     "nx": "18.0.0-canary.20240130-bb3cf3a"
-  }
+  },
+  "nx": {}
 }
